@@ -1,4 +1,4 @@
-# Тестирование на адаптивность. Баг репорты
+# Тестирование на адаптивность к мобильной версии web приложения. Баг репорты
 # https://docs.google.com/spreadsheets/d/17uRrzKsAAJH92H6HHbI_v4s6Z36FpEGzgptiWIxUQZo/edit?usp=sharing
 ![Screenshot_13](https://github.com/krazyglue88/-/assets/139983939/01230ab0-2643-47e4-b07a-f4951a6bd4b0)
 ![Screenshot_14](https://github.com/krazyglue88/-/assets/139983939/169706c4-a9fc-4ff5-a5a3-c1d8a85a17b2)
